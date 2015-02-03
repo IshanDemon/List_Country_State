@@ -1,13 +1,14 @@
 # List_Country_State
 
-Create Country state dropdown by using a javascript file.
+Create Country state dropdown by using a JavaScript file.
 
 
 Advantages:
 
 	No need to create tables in database.
-  
-	No jquery used(only javascript).
-  
+
+	No jQuery used (only JavaScript).
+
 	You can manually add/delete/update Countries and States.
+
 
