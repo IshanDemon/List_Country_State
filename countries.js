@@ -54,7 +54,7 @@ s_a[47]="Direction Island|Home Island|Horsburgh Island|North Keeling Island|Sout
 s_a[48]="Amazonas|Antioquia|Arauca|Atlantico|Bolivar|Boyaca|Caldas|Caqueta|Casanare|Cauca|Cesar|Choco|Cordoba|Cundinamarca|Distrito Capital de Santa Fe de Bogota|Guainia|Guaviare|Huila|La Guajira|Magdalena|Meta|Narino|Norte de Santander|Putumayo|Quindio|Risaralda|San Andres y Providencia|Santander|Sucre|Tolima|Valle del Cauca|Vaupes|Vichada";
 // <!-- -->
 s_a[49]="Anjouan (Nzwani)|Domoni|Fomboni|Grande Comore (Njazidja)|Moheli (Mwali)|Moroni|Moutsamoudou";
-s_a[50]="Bandundu|Bas-Congo|Equateur|Kasai-Occidental|Kasai-Oriental|Katanga|Kinshasa|Maniema|Nord-Kivu|Orientale|Sud-Kivu";
+s_a[50]="Bas-Uele|Equateur|Haut-Katanga|Haut-Lomani|Haut-Uele|Ituri|Kasaï|Kasaï Central|Kasaï Oriental|Kinshasa|Kongo Central|Kwango|Kwilu|Lomani|Lualaba|Mai-Ndombe|Maniema|Mongala|Nord Kivu|Nord-Ubangui|Sankuru|Sud Kivu|Sud-Ubangui|Tanganyika|Tshopo|Tshuapa";
 s_a[51]="Bouenza|Brazzaville|Cuvette|Kouilou|Lekoumou|Likouala|Niari|Plateaux|Pool|Sangha";
 s_a[52]="Aitutaki|Atiu|Avarua|Mangaia|Manihiki|Manuae|Mauke|Mitiaro|Nassau Island|Palmerston|Penrhyn|Pukapuka|Rakahanga|Rarotonga|Suwarrow|Takutea";
 s_a[53]="Alajuela|Cartago|Guanacaste|Heredia|Limon|Puntarenas|San Jose";
